@@ -1,0 +1,1 @@
+There is still guest for developing better measures for classifying different periods of a dynamical system. E.g. in 2512.05975 circulance is defined as a measure for distinguishing between e.g. periodic, chaotic and stochastic regimes. Here we try to devise other measures that possibly allow us to distinguish between these different regimes.
